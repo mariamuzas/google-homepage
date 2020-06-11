@@ -5,7 +5,7 @@ a {
 a:hover {
     color: rgb(26, 133, 20, 0.911);
     text-decoration: underline;
-  }
+}
 .menu {
     font-family: arial,sans-serif;
     overflow: hidden;
@@ -70,7 +70,6 @@ main .search:active{
     display: flex;
     justify-content: center;
     margin-top: 15px;
-    
 }
 main .button1:hover {
     color: black;
@@ -91,7 +90,6 @@ main .button2:hover {
     margin: 11px 4px;
     padding: 0 20px;
     height: 36px;
-    cursor: pointer;
     border-style: hidden;
 }
 .button2{
@@ -103,7 +101,6 @@ main .button2:hover {
     margin: 11px 4px;
     padding: 0 20px;
     height: 36px;
-    cursor: pointer;
     border-style: hidden;
 }
 footer a {
@@ -131,10 +128,9 @@ footer a {
     margin-right: 20px;
 }
 .extra-footer{
-    float: left;
     font-family: arial,sans-serif;
     font-size: 14px;
-    width: 100vw;
+    width: 98%;
     background: #f2f2f2;
     line-height: 30px;
     border: 1px solid #e4e4e4;
